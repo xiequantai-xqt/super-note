@@ -2,6 +2,8 @@
 
 ## windows系统
 
+![](https://guiwanzhyq.oss-cn-hangzhou.aliyuncs.com/hc/img/20240821/f3d1beae-f1c6-4547-9421-492767e44c28.png)
+
 使用“启动”文件夹：
 
 - 打开文件资源管理器。
