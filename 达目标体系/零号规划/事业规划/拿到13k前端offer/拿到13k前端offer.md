@@ -2,8 +2,27 @@
 
 目标：
 
-![](https://educt-files.oss-cn-shenzhen.aliyuncs.com/a85fbc5c-5531-4403-84cd-49565c69015e.png)
+![](https://educt-files.oss-cn-shenzhen.aliyuncs.com/dd40348e-a1de-489f-a261-02ede9e548f7.png)
+
+奖金：0元
+
+**状态：已完成**
+
+# 第三阶段
+
+目标：
+
+
 
 奖金：1元
 
-状态：进行中
+可能失败点：
+
+| 序号 | 可疑点 | 如何预防 |
+| ---- | ------ | -------- |
+|      |        |          |
+|      |        |          |
+|      |        |          |
+
+**状态：即将开始**
+
