@@ -1,0 +1,14 @@
+{
+  "name": "super-note",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "commit": "git add -A && czg && git pull && git push"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "czg": "^1.9.4"
+  }
+}
