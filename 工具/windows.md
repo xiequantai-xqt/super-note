@@ -27,4 +27,4 @@
 - 过多的应用程序设置为开机启动可能会导致系统启动变慢。
 - 对于安全起见，在修改任何系统设置之前，最好先备份重要数据。
 
-![](https://front-end-files.oss-cn-shenzhen.aliyuncs.com/%E5%B0%8F%E7%A8%8B%E5%BA%8F/image.jpeg)
+![](https://front-end-files.oss-cn-shenzhen.aliyuncs.com/node%E5%AD%A6%E4%B9%A0/0a07219e-762a-4865-8e01-0b798db6610d.jpg)
