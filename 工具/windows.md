@@ -2,7 +2,7 @@
 
 ## windows系统
 
-![](https://guiwanzhyq.oss-cn-hangzhou.aliyuncs.com/hc/img/20240821/f3d1beae-f1c6-4547-9421-492767e44c28.png)
+![](../imgs/工具/f3d1beae-f1c6-4547-9421-492767e44c28.png)
 
 使用“启动”文件夹：
 
@@ -43,8 +43,8 @@
 
 > 下面是几张参考图片，图片有可能会丢失，不过不重要
 
-![](https://educt-files.oss-cn-shenzhen.aliyuncs.com/09fb8770-37a7-4a8e-b4d7-b6757977f7b5.png)
+![](../imgs/工具/09fb8770-37a7-4a8e-b4d7-b6757977f7b5.png)
 
-![](https://educt-files.oss-cn-shenzhen.aliyuncs.com/698e5b4b-5a0d-4ac4-b801-0dbbb3adc209.png)
+![](../imgs/工具/698e5b4b-5a0d-4ac4-b801-0dbbb3adc209.png)
 
-![](https://educt-files.oss-cn-shenzhen.aliyuncs.com/bf6aa4bc-ddc5-4a5a-a931-36a4e2fca07b.png)
+![](../imgs/工具/bf6aa4bc-ddc5-4a5a-a931-36a4e2fca07b.png)
