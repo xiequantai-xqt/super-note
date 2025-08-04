@@ -26,7 +26,7 @@
 
 任务进程图：
 
-![](https://gitee.com/xiequantai/typora-images/raw/master/目标管理/1754236348-人生布局_v1.0（Revive 24）.png)
+![](https://charging-api-sit.guiwanpark.com/admin-api/infra/file/5/get/94b68850216ec518cf374767ee956905280f5e11e6ba1ad845f201823c8a1f04.png)
 
 图片：
 
